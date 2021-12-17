@@ -1,0 +1,3 @@
+Medium
+- sort, O(NlogN) time
+- heap, O(Nlog4) time
